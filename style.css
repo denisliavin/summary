@@ -51,3 +51,11 @@ body {
 .head {
     margin-bottom: 15px;
 }
+#smpl-ltr-rsm {
+    position: relative;
+}
+.download-link {
+    position: absolute;
+    right: 50px;
+    top: 48px;
+}
